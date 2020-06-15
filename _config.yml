@@ -18,14 +18,23 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Tietokantojen perusteet
+title: Kurssin&shy; nimi
 description: ""
-baseurl: "/db-course-template" # the subpath of your site, e.g. /blog
-url: "https://millakortelainen.github.io/db-course-template/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/course-template" # the subpath of your site, e.g. /blog
+url: "https://millakortelainen.github.io/course-template/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 plugins:
   - jekyll-feed
+
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  syntax_highlighter_opts:
+    default_lang: html
+    css_class   : 'syntax'
+
 
 collections:
   pages:
