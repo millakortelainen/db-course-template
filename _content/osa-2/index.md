@@ -1,5 +1,5 @@
 ---
-layout: section
+layout: chapter
 title: Osa 2
 nav-title: Osa 2
 ---

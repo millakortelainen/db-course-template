@@ -1,5 +1,5 @@
 ---
-layout: section
+layout: chapter
 title: Peruskomennot
 sub-section: true
 ---

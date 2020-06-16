@@ -35,6 +35,10 @@ kramdown:
     default_lang: html
     css_class   : 'syntax'
 
+defaults:
+  -
+    values:
+      layout: "default"
 
 collections:
   pages:

@@ -1,5 +1,5 @@
 ---
-layout: section
+layout: chapter
 title: Yhteenvetokyselyt
 sub-section: true
 ---

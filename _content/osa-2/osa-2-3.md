@@ -1,5 +1,5 @@
 ---
-layout: section
+layout: chapter
 title: SQLite-tietokanta
 sub-section: true
 ---
